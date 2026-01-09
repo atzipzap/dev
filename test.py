@@ -4,7 +4,7 @@
 import time
 
 def show_menu():
-    """Zeigt das Hauptmenü an"""
+    """Zeigt das Hauptmenü des Testprogramms an"""
     print("\n" + "=" * 50)
     print("         INTERAKTIVES PROGRAMM")
     print("=" * 50)
