@@ -4,9 +4,9 @@
 import time
 
 def show_menu():
-    """Zeigt das Hauptmenü des Testprogramms an"""
+    """Zeigt das Hauptmenü des Testprogramms von MZ an"""
     print("\n" + "=" * 50)
-    print("         INTERAKTIVES PROGRAMM")
+    print("         MZ: INTERAKTIVES PROGRAMM")
     print("=" * 50)
     print("1. Willkommen anzeigen")
     print("2. Text eingeben und ausgeben")
