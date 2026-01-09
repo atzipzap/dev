@@ -13,7 +13,7 @@ def show_menu():
     print("3. Mathe-Rechner")
     print("4. Liste erstellen")
     print("5. Aktuelle Zeit anzeigen")
-    print("0. Beenden")
+    print("0. Beenden des Programms")
     print("=" * 50)
 
 def welcome():
